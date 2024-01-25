@@ -1,1 +1,1 @@
-Parallax Web Page
+Flex yapılar kullanılmadan positionlar ile oluşturulmuştur
